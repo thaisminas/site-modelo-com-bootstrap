@@ -1,0 +1,53 @@
+    body {
+        background-color: #F5DEB3;
+    }
+    
+    nav.navbar navbar-dark bg-dar {
+        background-color: black;
+    }
+    
+    .logotipo {
+        text-align: left;
+    }
+    
+    .navbar-collapse {
+        background-color: black;
+        color: #F4A460;
+        text-align: left;
+        font-size: 20px;
+        vertical-align: auto;
+    }
+    
+    h1 {
+        padding-top: 30px;
+        margin-top: auto;
+        padding-bottom: 50px;
+        text-align: center;
+    }
+    
+    .form-group {
+        margin: 50px;
+    }
+    
+    .labels {
+        margin-top: 100px;
+        margin-bottom: 50px;
+    }
+    
+    #botaoEnviar {
+        ;
+    }
+    
+    .bg-footter {
+        background-color: black;
+        color: #F4A460;
+        padding-top: 60px;
+        font-family: Poppins sans-serif;
+    }
+    
+    .copyright {
+        background-color: black;
+        margin: auto;
+        padding: 30px;
+        line-height: 50px;
+    }

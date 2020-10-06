@@ -1,0 +1,65 @@
+body {
+    font: 16px verdana, sans-serif;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+.nav-link {
+    color: #F4A460;
+    font-weight: bold;
+}
+
+.quemsomos {
+    background-color: #F5DEB3;
+    color: #1C1C1C;
+}
+
+.quemsomos h3 {
+    line-height: 50px;
+    font-weight: bold;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.fa-heart {
+    color: red;
+}
+
+.parceiros {
+    background-color: #F4A460;
+    color: black;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+.parceiros h3 {
+    font-weight: bold;
+    line-height: 100px;
+}
+
+.servicos {
+    background-color: #F5DEB3;
+    color: black;
+}
+
+.servicos h3 {
+    font-weight: bold;
+    line-height: 90px;
+}
+
+.bg-footter {
+    background-color: black;
+    color: #F4A460;
+    padding-top: 60px;
+    font-family: Poppins sans-serif;
+}
+
+#rodape {
+    margin: auto;
+    line-height: 50px;
+}
